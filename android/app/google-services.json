@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "40714516324",
+    "project_id": "hikmethocaproje",
+    "storage_bucket": "hikmethocaproje.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:40714516324:android:eb11ce1564e4ddce1d6c71",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "40714516324-ma5fhgbffok8ud5ml0o6105u8eb2qlcv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebase",
+            "certificate_hash": "31b9fd672774c4d522b37fc201b029424f1e27f4"
+          }
+        },
+        {
+          "client_id": "40714516324-nmqk9jj5aibu0ft86paldb63pr5oavp3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBADZqhbPHl_Mua5dQpga1Jzx2baZenHCQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "40714516324-nmqk9jj5aibu0ft86paldb63pr5oavp3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
